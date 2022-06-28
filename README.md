@@ -6,8 +6,5 @@
 
 
 ## Summary Statistics on Suspension Coils
-
-<img width="338" alt="Deliverable 2 Total Summary" src="https://user-images.githubusercontent.com/101950175/176287279-cd12b675-65df-4192-8153-12a0eb656210.png">
-
-
+![Deliverable 2 Total Summary](https://user-images.githubusercontent.com/101950175/176287618-822a5d6d-fe3d-4158-8437-a8967b51ca21.png)
 ![Deliverable 2 Lot Summary](https://user-images.githubusercontent.com/101950175/176287320-fccdb6d0-7f5f-42e9-927a-d68e58b3951b.png)
