@@ -49,9 +49,13 @@ p-value = 0.1589, PSI not statistically significant.
 
 ## Study Design: MechaCar vs Competition
 <br>
+
 **Q. What metric or metrics are you going to test?**
+
 <br>
+
 The next metric that could be tested could be highway fuel efficiency in different makes of cars/trucks.  As a consumer, I always look at fuel efficiency whether it is highway or city.
+<br>
 **Q. What is the null hypothesis or alternative hypothesis?**
 <br>
 The null hypothesis would be the highway fuel efficiency is statistically different between V6 engines and V8 engines.  The alternative hypothesis would be the highway fuel efficiency is not statistically different between v6 engines and v8 engines. 
