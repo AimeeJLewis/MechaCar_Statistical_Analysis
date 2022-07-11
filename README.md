@@ -48,7 +48,6 @@ p-value = 0.1589, PSI not statistically significant.
 
 
 ## Study Design: MechaCar vs Competition
-<br>
 **Q. What metric or metrics are you going to test?**
 <br>
 The next metric that could be tested could be highway fuel efficiency in different makes of cars/trucks.  As a consumer, I always look at fuel efficiency whether it is highway or city.
