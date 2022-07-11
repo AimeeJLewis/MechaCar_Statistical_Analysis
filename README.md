@@ -48,7 +48,11 @@ p-value = 0.1589, PSI not statistically significant.
 
 
 ## Study Design: MechaCar vs Competition
+<br>
 Q. What metric or metrics are you going to test?
+<br>
 Q. What is the null hypothesis or alternative hypothesis?
+<br>
 Q. What statistical test would you use to test the hypothesis? And why?
+<br>
 Q. What data is needed to run the statistical test?
