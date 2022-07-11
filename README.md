@@ -28,10 +28,23 @@ When looking at the variance for the total manufacturing lots, we find that the 
 
 
 ## T-Tests on Suspension Coils
+Assuming a significance level of 0.05 for all of the below T-Tests.
+T-test for All Lots:
 ![Deliverable 3 total test](https://user-images.githubusercontent.com/101950175/176293500-48fbcc3a-9500-41b4-bba4-d68dd581bcb3.png)
+p-value = 1, PSI not statistically significant.
+<br>
+T-test for Lot 1:
 ![Deliverable 3 test 1](https://user-images.githubusercontent.com/101950175/176293586-f1292383-e55c-4ea2-b38c-89e5140a5ad1.png)
+p-value = 1.568e-11, PSI statistically significant.
+<br>
+T-test for Lot 2:
 ![Deliverable 3 test 2](https://user-images.githubusercontent.com/101950175/176293643-16aeea43-2839-4383-aee2-64b0e59f537c.png)
+p-value = 0.0005911, PSI statistcally significant.
+<br>
+T-test for Lot 3:
 ![Deliverable 3 test 3](https://user-images.githubusercontent.com/101950175/176293700-664d657a-42df-42cd-bc73-38ef70a292e9.png)
+p-value = 0.1589, PSI not statistically significant.
+<br>
 
 
 ## Study Design: MechaCar vs Competition
