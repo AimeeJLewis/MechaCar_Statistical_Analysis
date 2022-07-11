@@ -4,11 +4,13 @@
 ![Deliverable 1 Lin Reg](https://user-images.githubusercontent.com/101950175/176278288-05b8f8d7-94a3-4e94-bc75-6e11d92ceddb.png)
 ![Deliverable 1 Summary Lin Reg](https://user-images.githubusercontent.com/101950175/176278298-750cbd08-caf3-4cb1-8e9c-8e6976d4ee51.png)
 ### Statstical Analysis
-++1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?++
+**1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?**
 The vehicle length and ground clearance are statitstially likely to provide non-random amounts of variance to the mpg value due to the fact that they both have a p-value with a significance level less than 0.05.
-2. Is the slope of the linear model considered to be zero?  Why or why not?
+<br>
+**2. Is the slope of the linear model considered to be zero?  Why or why not?**
 Since we have a p-value of 5.35e-11 and we are taking our assumed significance level of 0.05%, we can state that there is sufficient evidence to reject the null hypothesis and that the slope of our linear model is zero.
-3. Does this linear model predict mpg of MechaCar prototypes effectively?  Why or why not?
+<br>
+**3. Does this linear model predict mpg of MechaCar prototypes effectively?  Why or why not?**
 Since R-squared is .7149, that means that roughly 71% have a strong positive correlation between the variables.  We could say that this linear model predict mpg of MechaCar prototypes effectively. 
 
 
