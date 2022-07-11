@@ -22,7 +22,9 @@ Since R-squared is .7149, that means that roughly 71% have a strong positive cor
 ![Deliverable 2 Total Summary](https://user-images.githubusercontent.com/101950175/176287618-822a5d6d-fe3d-4158-8437-a8967b51ca21.png)
 ![Deliverable 2 Lot Summary](https://user-images.githubusercontent.com/101950175/176287320-fccdb6d0-7f5f-42e9-927a-d68e58b3951b.png)
 ### Statistical Analysis
-1. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+**1. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?**
+<br>
+When looking at the variance for the total manufacturing lots, we find that the variance is 62.3 which is well below te manufacturers 100lbs per square inch specification.  However if you look at lots individually, we find that Lot3 has a variance of 170.3 which does NOT meet the specifications for the suspension coils.
 
 
 ## T-Tests on Suspension Coils
